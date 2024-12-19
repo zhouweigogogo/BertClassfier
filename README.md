@@ -1,6 +1,6 @@
 # BertClassifier
 Bert训练意图分类模型并导出onnx
-单条数据使用onnx cpu推理和使用huggingface gpu推理时间相当
+单条数据使用onnx cpu推理和使用huggingface gpu推理时间相当, 时间约为0.02s
 
 ## 导出onnx
 ``` python
